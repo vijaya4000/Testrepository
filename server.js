@@ -4,3 +4,5 @@ console.log("hello world")
     header.innerText = 'Header';
     header.style.background = 'lightblue';
     header.style.padding = '10px';
+    console.log("vijaya")
+    
